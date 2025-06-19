@@ -39,7 +39,7 @@ export default function Mantenimiento() {
             });
 
         // Timeline para cada sección con animación de entrada y salida
-        sectionsRef.current.forEach((section, index) => {
+        sectionsRef.current.forEach((section) => {
             gsap.set(section, { opacity: 0, y: 50 });
 
             ScrollTrigger.create({
@@ -177,7 +177,7 @@ export default function Mantenimiento() {
 
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
-    }, [currentTextIndex]);
+    }, [currentTextIndex, scrollTextList.length]);
 
     const features = [
         {
