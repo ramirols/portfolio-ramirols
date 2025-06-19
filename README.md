@@ -38,17 +38,12 @@ Este es mi portfolio personal desarrollado con Next.js, React y tecnologías mod
    npm install
    ```
 
-3. Configurar variables de entorno:
-   ```bash
-   cp .env.example .env.local
-   ```
-
-4. Iniciar el servidor de desarrollo:
+3. Iniciar el servidor de desarrollo:
    ```bash
    npm run dev
    ```
 
-5. Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
+4. Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 
 ## 📱 Responsive Design
 El sitio implementa un diseño completamente responsivo siguiendo el principio "Mobile First", garantizando una experiencia óptima en:
