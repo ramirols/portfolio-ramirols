@@ -270,7 +270,7 @@ export default function Mantenimiento() {
                         animate={{ opacity: 1 }}
                         transition={{ delay: 2, duration: 0.5 }}
                     >
-                        <p className="text-white/90 text-base md:text-xl">Ramiro Ls | Desarrollador Semi Full Stack</p>
+                        <p className="text-white/90 text-base md:text-xl">Ramiro Ls | Desarrollador de Software</p>
                     </motion.div>
 
                     <motion.div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-8 mt-6 md:mt-8"
@@ -305,7 +305,7 @@ export default function Mantenimiento() {
                 >
                     <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4 sm:mb-6">Sobre Mí</h2>
                     <p className="text-base sm:text-xl text-white/90 mb-6 sm:mb-8 leading-relaxed">
-                        Soy un desarrollador Semi Full Stack con 3 años de experiencia, apasionado por crear experiencias web y aplicaciones únicas y memorables.
+                        Soy un desarrollador de software con 3 años de experiencia, apasionado por crear experiencias web y aplicaciones únicas y memorables.
                         Con experiencia en React, Next.js, React Native, Node.js, y las últimas tecnologías web, me especializo en
                         construir aplicaciones modernas y eficientes.
                     </p>
@@ -336,7 +336,7 @@ export default function Mantenimiento() {
                 >
                     <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4 sm:mb-6">Próximas Características</h2>
                     <p className="text-base sm:text-xl text-white/80 leading-relaxed mb-4 sm:mb-6">
-                        Estamos trabajando en una completa renovación de la plataforma que incluirá:
+                        Estoy trabajando en una completa renovación de la plataforma que incluirá:
                     </p>
                     <div className="space-y-3 sm:space-y-4">
                         {features.map((feature, index) => (
