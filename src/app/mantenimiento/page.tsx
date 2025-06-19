@@ -182,23 +182,23 @@ export default function Mantenimiento() {
     const features = [
         {
             title: "Interfaz completamente rediseñada con animaciones fluidas",
-            content: "La nueva interfaz incluirá transiciones suaves, efectos de parallax, y animaciones interactivas que mejorarán significativamente la experiencia del usuario. Implementaremos las últimas tendencias en diseño web manteniendo un equilibrio entre estética y funcionalidad."
+            content: "La nueva interfaz incluirá transiciones suaves, efectos de parallax, y animaciones interactivas que mejorarán significativamente la experiencia del usuario. Implementaré las últimas tendencias en diseño web manteniendo un equilibrio entre estética y funcionalidad."
         },
         {
             title: "Nuevo sistema de gestión de proyectos",
-            content: "Un sistema integral que permitirá organizar, seguir y gestionar proyectos de manera eficiente. Incluirá tableros Kanban, seguimiento de tiempo, asignación de tareas, y generación de informes detallados sobre el progreso del proyecto."
+            content: "Un sistema integral que permitirá organizar, seguir y gestionar proyectos de manera eficiente. Incluiré tableros Kanban, seguimiento de tiempo, asignación de tareas, y generación de informes detallados sobre el progreso del proyecto."
         },
         {
             title: "Integración con las últimas tecnologías web",
-            content: "Implementaremos integraciones con herramientas populares como GitHub, Figma, y servicios de CI/CD. También incluiremos soporte para WebAssembly, PWA y otras tecnologías emergentes para mejorar el rendimiento y la funcionalidad."
+            content: "Implementaré integraciones con herramientas populares como GitHub, Figma, y servicios de CI/CD. También incluiré soporte para WebAssembly, PWA y otras tecnologías emergentes para mejorar el rendimiento y la funcionalidad."
         },
         {
             title: "Mejoras significativas en rendimiento y velocidad",
-            content: "Optimizaciones profundas en el código base, implementación de lazy loading, caching inteligente y optimización de assets. El objetivo es lograr puntuaciones perfectas en Lighthouse y tiempos de carga inferiores a 2 segundos."
+            content: "Optimizaré profundamente el código base, implementaré lazy loading, caching inteligente y optimizaré assets. El objetivo es lograr puntuaciones perfectas en Lighthouse y tiempos de carga inferiores a 2 segundos."
         },
         {
             title: "Experiencia de usuario optimizada y más intuitiva",
-            content: "Rediseño completo de la navegación y la arquitectura de la información. Implementaremos un sistema de búsqueda avanzado, filtros inteligentes y personalización de la interfaz según las preferencias del usuario."
+            content: "Rediseñaré completamente la navegación y la arquitectura de la información. Implementaré un sistema de búsqueda avanzado, filtros inteligentes y personalización de la interfaz según las preferencias del usuario."
         }
     ];
 
